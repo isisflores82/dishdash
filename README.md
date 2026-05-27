@@ -6,7 +6,7 @@ Players must collect ingredients, cook meat, assemble burgers, manage orders, an
 
 ---
 
-## Features
+## 🔥 Features
 
 - Real-time multiplayer gameplay
 - Dynamic cooking and order system
@@ -21,7 +21,7 @@ Players must collect ingredients, cook meat, assemble burgers, manage orders, an
 
 ---
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 - JavaScript
 - Three.js
@@ -35,7 +35,7 @@ Players must collect ingredients, cook meat, assemble burgers, manage orders, an
 
 ---
 
-## Gameplay
+## 🎮 Gameplay
 Players must:
 
 - Pick up ingredients
@@ -44,7 +44,7 @@ Players must:
 - Deliver food before losing lives
 - Coordinate with teammates in multiplayer mode
 
-## Installation
+## 🏗️ Installation
 
 ```bash
 # Clone repository
@@ -58,6 +58,7 @@ node server.js
 
 # Open in browser
 http://localhost:3000
+```
 
-## Authors
+## 👩‍💻 Authors
 - Isis Flores, Calos Pinkus, Enrique Gonzalez

@@ -48,7 +48,7 @@ Players must:
 
 ```bash
 # Clone repository
-git clone https://github.com/IsisFlores82/dish-dash.git
+git clone https://github.com/IsisFlores82/DishDash.git
 
 # Install dependencies
 npm install

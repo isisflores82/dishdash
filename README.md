@@ -66,4 +66,4 @@ http://localhost:3000
 ## 👩‍💻 Authors
 - Isis Flores | Gameplay Developer, Graphic Design, Enviroment
 - Carlos Pinkus | Socket.io Conection
-- Enrique Gonzalez | Map Selection Menu | Facebook API | Dashboars
+- Enrique Gonzalez | Map Selection Menu, Facebook API, Dashboars

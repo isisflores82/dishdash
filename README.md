@@ -2,7 +2,7 @@
 
 A fast-paced multiplayer cooking game developed with **Three.js**, **Node.js**, and **Socket.IO**, where players cooperate to prepare and deliver food orders in real time inside interactive 3D kitchens.
 
-Players must collect ingredients, cook meat, assemble burgers, manage orders, and coordinate with teammates while racing against the clock.
+Players must collect ingredients, cook patties, assemble burgers, manage orders, and coordinate with teammates while racing against the clock.
 
 ![dish_dash_Coop](./Assets/ShowGameplay/dish_dash_Coop.gif)
 ---

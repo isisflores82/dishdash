@@ -4,6 +4,7 @@ A fast-paced multiplayer cooking game developed with **Three.js**, **Node.js**, 
 
 Players must collect ingredients, cook meat, assemble burgers, manage orders, and coordinate with teammates while racing against the clock.
 
+![dish dash coop](./Assets/ShowGameplay/dish dash coop.gif)
 ---
 
 ## 🔥 Features
@@ -43,6 +44,8 @@ Players must:
 - Assemble orders correctly
 - Deliver food before losing lives
 - Coordinate with teammates in multiplayer mode
+
+![versus dish dash](./Assets/ShowGameplay/versus dish dash.gif)
 
 ## 🏗️ Installation
 
